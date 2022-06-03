@@ -1,0 +1,31 @@
+﻿Scopus-1071-Analyze-Subject
+
+"Your query : (((TITLE-ABS-KEY(biofuel)) AND ((nanocat*))) AND ( LIMIT-TO ( DOCTYPE,""ar"" ) ) )"
+
+
+Number of results : 1071
+
+"SUBJECT AREA",
+"Energy","579"
+"Chemical Engineering","427"
+"Environmental Science","363"
+"Chemistry","342"
+"Engineering","140"
+"Materials Science","106"
+"Physics and Astronomy","69"
+"Biochemistry, Genetics and Molecular Biology","66"
+"Agricultural and Biological Sciences","59"
+"Medicine","40"
+"Mathematics","35"
+"Pharmacology, Toxicology and Pharmaceutics","15"
+"Multidisciplinary","14"
+"Immunology and Microbiology","12"
+"Business, Management and Accounting","11"
+"Earth and Planetary Sciences","7"
+"Computer Science","6"
+"Social Sciences","6"
+"Economics, Econometrics and Finance","4"
+"Health Professions","4"
+"Decision Sciences","1"
+"Nursing","1"
+"Psychology","1"
